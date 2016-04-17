@@ -2,6 +2,15 @@
 In this document, we will explain whatcVersion Control Systems (VCS) are and why they are needed for collaborative software projects.
 We also included a comparison of the two most popular VCS, Git and Subversion (SVN).
 
+## Why Version Control?
+You need a VCS so you can go back to a previous working version of your project in case you mess up.
+This is the single most important feature of any VCS.
+For your private files, anyone of you has probably already done something like this:
+
+!(designers files)[http://i.imgur.com/VbWttOp.jpg]
+
+###
+
 ##Sources
 Stackoverflow answer: "Git is not better than Subversion" &mdash; <cite>http://stackoverflow.com/a/875/2167159</cite>
 
