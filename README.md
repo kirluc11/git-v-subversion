@@ -35,7 +35,7 @@ Using a VCS everyone on your team can work on every file at the same time. Later
 ##Sources
 Stackoverflow answer: "Git is not better than Subversion" &mdash; <cite>http://stackoverflow.com/a/875/2167159</cite>
 
-Git SCM Wiki: "GitGitSvnComparison" &mdash; <cite>https://git.wiki.kernel.org/index.php/GitSvnComparison</cite>
+Git SCM Wiki: "GitSvnComparison" &mdash; <cite>https://git.wiki.kernel.org/index.php/GitSvnComparison</cite>
 
 GitHub Help: "What are the differences between SVN and Git?" &mdash; <cite>https://help.github.com/articles/what-are-the-differences-between-svn-and-git</cite>
 
