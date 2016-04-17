@@ -1,2 +1,4 @@
-# git-v-subversion
-A presentation and article about these two systems.
+# Git V Subversion
+
+##Sources
+Stackoverflow answer: "Git is not better than Subversion" -- <cite>http://stackoverflow.com/a/875/2167159</cite>
