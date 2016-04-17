@@ -5,7 +5,7 @@ We also included a comparison of the two most popular VCS, Git and Subversion (S
 ## Why Version Control?
 You need a VCS so you can go back to a previous working version of your project in case you mess up.
 This is the single most important feature of any VCS.
-For your private files, anyone of you has probably already done something like this:
+For your private files, everyone of you has most likely already done something like this:
 
 ![designers files](http://i.imgur.com/VbWttOp.jpg)
 
@@ -15,6 +15,7 @@ This why we need a system to handle our revisions &mdash; a VCS.
 
 ### Use Cases
 Altough nobody we know likes to talk about *Use Cases*, please excuse us for this one time.
+
 Here are the most important uses for a VCS.
 
 #### Backup and Restore
@@ -36,6 +37,7 @@ Using a VCS everyone on your team can work on every file at the same time. Later
 #### Statistics
 When using a VCS, every change is documented, which leads to nice side effects. For example, you can analyze how many lines in the source were modified by which team member, or at which time of the day the most changes were made.
 When combined with data visualization, some very interesting things can be made.
+
 For example, look at [this visualization](http://ghv.artzub.com/#repo=PizzaWebshop&climit=1000&user=thekaindorfcompany) of our previous [PizzaWebshop project](https://github.com/TheKaindorfCompany/PizzaWebshop)
 
 ##Sources
