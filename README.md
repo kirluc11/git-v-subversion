@@ -26,7 +26,7 @@ You can go to any moment in time you'd like to, it's all there. If used correctl
 Whenever you change something about your project, your VCS will want you to provide a short description of what you did.
 This, in combination with the ability to compare different versions of your code, brings you many benefits. For example, it makes easier for you to compare different versions and find out exactly when a certain unwanted feature was introduced.
 
-<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">99 little bugs in the code<br>99 little bugs in the code<br>Take one down, patch it around<br>117 little bugs in the code</p>&mdash; Alexander (@irqed) <a href="https://twitter.com/irqed/status/358212928404586498">19. Juli 2013</a></blockquote>
+<blockquote><p>99 little bugs in the code<br>99 little bugs in the code<br>Take one down, patch it around<br>117 little bugs in the code</p>&mdash; Alexander (@irqed) <a href="https://twitter.com/irqed/status/358212928404586498">19. Juli 2013</a></blockquote>
 
 #### Different Versions
 Not only does a VCS let you go back in time, but you can also can switch between different versions. Want to try something that could possibly break your code? You can use *Sandboxing*, testing your changes in a separate area.
@@ -40,7 +40,17 @@ When combined with data visualization, some very interesting things can be made.
 
 For example, look at [this visualization](http://ghv.artzub.com/#repo=PizzaWebshop&climit=1000&user=thekaindorfcompany) of our previous [PizzaWebshop Project](https://github.com/TheKaindorfCompany/PizzaWebshop).
 
-##Sources
+## Which VCS are there?
+
+This article will focus on Git and SVN, altough there are also other VCS worth noting, such as Mercurial or CVS.
+
+### Centralized vs Distributed
+<blockquote>
+<p>There are many version control systems out there. Often they are divided into two groups:<br>“centralized” and “distributed”.</p>
+&mdash; Giancarlo Lionetti [14. February 2012](http://blogs.atlassian.com/2012/02/version-control-centralized-dvcs)
+</blockquote>
+
+## Sources
 Stackoverflow answer: "Git is not better than Subversion" &mdash; <cite>http://stackoverflow.com/a/875/2167159</cite>
 
 Git SCM Wiki: "GitSvnComparison" &mdash; <cite>https://git.wiki.kernel.org/index.php/GitSvnComparison</cite>
@@ -55,7 +65,9 @@ Tower: "Why Use a Version Control System?" &mdash; <cite>https://www.git-tower.c
 
 Stackoverflow answer "A Version Control System should make your Life easier" &mdash; <cite>http://stackoverflow.com/a/1408464/2167159</cite>
 
-##Acronyms
+Atlassian: "What is Version Control: Centralized vs. DVCS" <cite>http://blogs.atlassian.com/2012/02/version-control-centralized-dvcs</cite>
+
+## Acronyms
 | Abbreviation | Meaning                |
 |--------------|------------------------|
 | VCS          | Version Control System |
