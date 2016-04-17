@@ -9,6 +9,10 @@ For your private files, anyone of you has probably already done something like t
 
 ![designers files](http://i.imgur.com/VbWttOp.jpg)
 
+But for software development, this ~~isn't a good~~ is a terrible solution. Things can get messy pretty fast, and everything gets even more complicated when multiple developers join in.
+
+This why we need a system to handle our revisions &mdash; a VCS.
+
 ###
 
 ##Sources
