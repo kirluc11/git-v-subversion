@@ -47,7 +47,7 @@ This article will focus on Git and SVN, altough there are also other VCS worth n
 ### Centralized vs Distributed
 <blockquote>
 <p>There are many version control systems out there. Often they are divided into two groups:<br>“centralized” and “distributed”.</p>
-&mdash; Giancarlo Lionetti [14. February 2012](http://blogs.atlassian.com/2012/02/version-control-centralized-dvcs)
+&mdash; Giancarlo Lionetti <a href="http://blogs.atlassian.com/2012/02/version-control-centralized-dvcs">14. February 2012</a>
 </blockquote>
 
 ## Sources
