@@ -83,7 +83,7 @@ Tower: "Why Use a Version Control System?" &mdash; <cite>https://www.git-tower.c
 
 Stackoverflow answer "A Version Control System should make your Life easier" &mdash; <cite>http://stackoverflow.com/a/1408464/2167159</cite>
 
-Atlassian: "What is Version Control: Centralized vs. DVCS" <cite>http://blogs.atlassian.com/2012/02/version-control-centralized-dvcs</cite>
+Atlassian: "What is Version Control: Centralized vs. DVCS" &mdash; <cite>http://blogs.atlassian.com/2012/02/version-control-centralized-dvcs</cite>
 
 ## Acronyms
 | Abbreviation | Meaning                |
