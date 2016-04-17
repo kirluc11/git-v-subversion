@@ -14,7 +14,8 @@ But for software development, this ~~isn't a good~~ is a terrible solution. Thin
 This why we need a system to handle our revisions &mdash; a VCS.
 
 ### Use Cases
-Altough nobody we know likes to talk about *Use Cases*, please excuse us for this one time. Here are the most important uses for a VCS.
+Altough nobody we know likes to talk about *Use Cases*, please excuse us for this one time.
+Here are the most important uses for a VCS.
 
 #### Backup and Restore
 We already mentionted this as the most important use and the very reason VCS were invented.
@@ -34,7 +35,8 @@ Using a VCS everyone on your team can work on every file at the same time. Later
 
 #### Statistics
 When using a VCS, every change is documented, which leads to nice side effects. For example, you can analyze how many lines in the source were modified by which team member, or at which time of the day the most changes were made.
-When combined with data visualization, some very interesting things can be made. For example, look at [this visualization](http://ghv.artzub.com/#repo=PizzaWebshop&climit=1000&user=thekaindorfcompany) of our previous [PizzaWebshop project](https://github.com/TheKaindorfCompany/PizzaWebshop)
+When combined with data visualization, some very interesting things can be made.
+For example, look at [this visualization](http://ghv.artzub.com/#repo=PizzaWebshop&climit=1000&user=thekaindorfcompany) of our previous [PizzaWebshop project](https://github.com/TheKaindorfCompany/PizzaWebshop)
 
 ##Sources
 Stackoverflow answer: "Git is not better than Subversion" &mdash; <cite>http://stackoverflow.com/a/875/2167159</cite>
