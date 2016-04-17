@@ -25,7 +25,6 @@ Whenever you change something about your project, your VCS will want you to prov
 This, in combination with the ability to compare different versions of your code, brings you many benefits. For example, it makes easier for you to compare different versions and find out exactly when a certain unwanted feature was introduced.
 
 <blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">99 little bugs in the code<br>99 little bugs in the code<br>Take one down, patch it around<br>117 little bugs in the code</p>&mdash; Alexander (@irqed) <a href="https://twitter.com/irqed/status/358212928404586498">19. Juli 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### Different Versions
 Not only does a VCS let you go back in time, but you can also can switch between different versions. Want to try something that could possibly break your code? You can use *Sandboxing*, testing your changes in a separate area.
