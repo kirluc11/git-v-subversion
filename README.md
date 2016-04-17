@@ -10,7 +10,7 @@ Tutorials Point: "SVN Basic Concepts" &mdash; <cite>http://www.tutorialspoint.co
 Better Explained: "A Visual Guide to Version Control" &mdash; <cite>http://betterexplained.com/articles/a-visual-guide-to-version-control/</cite>
 
 ##Acronyms
-|Abbreviation|Meaning|
-|---|----------------------|
-|VCS|Version Control System|
-|SVN|Subversion            |
+| Abbreviation | Meaning                |
+|--------------|------------------------|
+| VCS          | Version Control System |
+| SVN          | Subversion             |
