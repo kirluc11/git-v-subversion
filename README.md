@@ -61,7 +61,7 @@ Every programmer probably does the following steps when working with a CVCS.
 Easy enough, right?
 
 #### Distributed VCS (DVCS)
-DVCS are the younger kind of VCS. They don't rely on one central version, but every developer has the full project, including its history, on their hard drive. But DVCS ~~can~~ most likely will still have a central repository. Your workflow when using a DVCS could look something like this.
+DVCS are the younger kind of VCS. They don't rely on one central version, but every developer has the full project, including its history, on their hard drive. But a DVCS ~~can~~ most likely will still have a central repository. Your workflow when using a DVCS could look something like this.
 
 1. *pull or clone from any repository* &mdash; optional
 2. make own changes
