@@ -7,7 +7,7 @@ You need a VCS so you can go back to a previous working version of your project 
 This is the single most important feature of any VCS.
 For your private files, anyone of you has probably already done something like this:
 
-!(designers files)[http://i.imgur.com/VbWttOp.jpg]
+![designers files](http://i.imgur.com/VbWttOp.jpg)
 
 ###
 
