@@ -38,7 +38,7 @@ Using a VCS everyone on your team can work on every file at the same time. Later
 When using a VCS, every change is documented, which leads to nice side effects. For example, you can analyze how many lines in the source were modified by which team member, or at which time of the day the most changes were made.
 When combined with data visualization, some very interesting things can be made.
 
-For example, look at [this visualization](http://ghv.artzub.com/#repo=PizzaWebshop&climit=1000&user=thekaindorfcompany) of our previous [PizzaWebshop Project](https://github.com/TheKaindorfCompany/PizzaWebshop).
+For example, look at [this visualization](http://ghv.artzub.com/#repo=PizzaWebshop&climit=1000&user=thekaindorfcompany&run) of our previous [PizzaWebshop Project](https://github.com/TheKaindorfCompany/PizzaWebshop).
 
 ## Which VCS are there?
 
