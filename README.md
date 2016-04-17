@@ -50,6 +50,24 @@ This article will focus on Git and SVN, altough there are also other VCS worth n
 &mdash; Giancarlo Lionetti <a href="http://blogs.atlassian.com/2012/02/version-control-centralized-dvcs">14. February 2012</a>
 </blockquote>
 
+#### Centralized VCS (CVCS)
+When using a CVCS, you have one central copy of you code base on a server. All changes will affect this central copy directly.
+Every programmer probably does the following steps when working with a CVCS.
+
+1. pull changes from the central server
+2. make own changes
+3. commit changes to the central server
+
+Easy enough, right?
+
+#### Distributed VCS (DVCS)
+DVCS are the younger kind of VCS. They don't rely on one central version, but every developer has the full project, including its history, on their hard drive. But DVCS ~~can~~ most likely will still have a central repository. Your workflow when using a DVCS could look something like this.
+
+1. *pull or clone from any repository* &mdash; optional
+2. make own changes
+3. commit changes to the local repository
+4. *push to any repository* &mdash; optional
+
 ## Sources
 Stackoverflow answer: "Git is not better than Subversion" &mdash; <cite>http://stackoverflow.com/a/875/2167159</cite>
 
