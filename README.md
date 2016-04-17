@@ -29,6 +29,9 @@ This, in combination with the ability to compare different versions of your code
 #### Different Versions
 Not only does a VCS let you go back in time, but you can also can switch between different versions. Want to try something that could possibly break your code? You can use *Sandboxing*, testing your changes in a separate area.
 
+#### Collaboration
+Using a VCS everyone on your team can work on every file at the same time. Later, the VCS lets you merge the files together. In contrast, if you used a shared folder instead, this would not be possible.
+
 ##Sources
 Stackoverflow answer: "Git is not better than Subversion" &mdash; <cite>http://stackoverflow.com/a/875/2167159</cite>
 
