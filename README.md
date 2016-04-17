@@ -13,7 +13,19 @@ But for software development, this ~~isn't a good~~ is a terrible solution. Thin
 
 This why we need a system to handle our revisions &mdash; a VCS.
 
-###
+### Use Cases
+Altough nobody we know likes to talk about *Use Cases*, please excuse us for this one time. Here are the most important uses for a VCS.
+
+#### Backup and Restore
+We already mentionted this as the most important use and the very reason VCS were invented.
+You can go to any moment in time you'd like to, it's all there. If used correctly, a VCS makes you never lose any of your precious code.
+
+#### Finding Bugs
+Whenever you change something about your project, your VCS will want you to provide a short description of what you did.
+This, in combination with the ability to compare different versions of your code, brings you many benefits. For example, it makes easier for you to compare different versions and find out exactly when a certain unwanted feature was introduced.
+
+#### Different Versions
+Not only does a VCS let you go back in time, but you can also can switch between different versions. Want to try something that could possibly break your code? You can use *Sandboxing*, testing your changes in a separate area.
 
 ##Sources
 Stackoverflow answer: "Git is not better than Subversion" &mdash; <cite>http://stackoverflow.com/a/875/2167159</cite>
@@ -25,6 +37,10 @@ GitHub Help: "What are the differences between SVN and Git?" &mdash; <cite>https
 Tutorials Point: "SVN Basic Concepts" &mdash; <cite>http://www.tutorialspoint.com/svn/svn_basic_concepts.htm</cite>
 
 Better Explained: "A Visual Guide to Version Control" &mdash; <cite>http://betterexplained.com/articles/a-visual-guide-to-version-control/</cite>
+
+Tower: "Why Use a Version Control System?" &mdash; <cite>https://www.git-tower.com/learn/git/ebook/en/mac/basics/why-use-version-control</cite>
+
+Stackoverflow answer "A Version Control System should make your Life easier" &mdash; <cite>http://stackoverflow.com/a/1408464/2167159</cite>
 
 ##Acronyms
 | Abbreviation | Meaning                |
